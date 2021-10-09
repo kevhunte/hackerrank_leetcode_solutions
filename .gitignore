@@ -1,0 +1,7 @@
+**/Thumbs.db
+**/.DS_Store
+**/CVS
+**/.hg
+**/.svn
+**/.git
+**/.vscode
